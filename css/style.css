@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Hva jeg trenger:
+    header, footer, sidebar skal være samme
+    Jeg ønsker å bruke Grid helelr enn flexbox.
+*/
